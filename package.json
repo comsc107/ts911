@@ -1,7 +1,7 @@
 {
   "name": "ts911-lsm99",
   "main": "./lib/ts911",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ts911",
   "keywords": [],
   "activationCommands": {
