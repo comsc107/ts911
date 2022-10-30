@@ -2,13 +2,13 @@
   "name": "ts911",
   "main": "./lib/ts911",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "ts911",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "ts911:toggle"
   },
-  "repository": "https://github.com/atom/ts911",
+  "repository": "https://github.com/comsc107/ts911",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
