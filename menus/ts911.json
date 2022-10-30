@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ts911",
+        "command": "ts911:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ts911",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ts911:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
